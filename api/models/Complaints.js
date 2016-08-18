@@ -13,6 +13,9 @@ module.exports = {
     desc_complaint:{
         type: 'string'
     },
+    id_complaint_type:{
+        type: 'integer'
+    },
     img_complaint:{
         type: 'string'
     },
